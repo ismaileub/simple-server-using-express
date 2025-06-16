@@ -21,7 +21,7 @@ It stores data in a **JSON file** instead of a traditional database — perfect 
 1. **Clone the repository:**
 
 ```bash
-  git clone <your-repo-url>
+  git clone https://github.com/ismaileub/simple-server-using-express.git
   cd simple-server-using-express
 ```
 2. **Installing dependencies:**
