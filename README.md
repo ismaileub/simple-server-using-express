@@ -38,7 +38,7 @@ The server will run on http://localhost:5000.
 
 ## 🔹 Pure Node.js Alternative 🔹
 
-If you want to try a pure Node.js version without Express, check this repository:  
+If you want same server using pure Node.js version without Express, check this repository:  
 [https://github.com/ismaileub/simple-server-using-pure-node-js](https://github.com/ismaileub/simple-server-using-pure-node-js)
 
 
