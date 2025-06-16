@@ -21,5 +21,24 @@ It stores data in a **JSON file** instead of a traditional database — perfect 
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
-cd new-folder-(2)
+  git clone <your-repo-url>
+  cd simple-server-using-express
+```
+2. **Installing dependencies:**
+
+```bash
+  npm install
+```
+3. **Start the server:**
+   
+```bash
+  npm start
+```
+The server will run on http://localhost:5000.
+
+## 🔹 Pure Node.js Alternative 🔹
+
+If you want to try a pure Node.js version without Express, check this repository:  
+[https://github.com/ismaileub/simple-server-using-pure-node-js](https://github.com/ismaileub/simple-server-using-pure-node-js)
+
+
